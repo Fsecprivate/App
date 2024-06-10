@@ -1,0 +1,5 @@
+mega.py
+pandas
+openpyxl
+python-telegram-bot
+python-dotenv
